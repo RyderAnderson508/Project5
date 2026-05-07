@@ -6,8 +6,6 @@ This repository contains the files and information for CIVE 202 Project #5. The 
 
 - Project_5.ipynb – Main Python notebook for the project
 
-- Project_5.py – Python script version of the project code
-
 - Project5_AnnotatedCode.docx – Document with explanations of the Python code
 
 - Project-5_Final_Report.docx – Final report explaining the methods, results, and discussion
